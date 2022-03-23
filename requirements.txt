@@ -1,0 +1,5 @@
+numpy==1.21.4
+opencv_python==4.5.4.60
+PySimpleGUI==4.57.0
+pyttsx3==2.90
+scipy==1.7.1
